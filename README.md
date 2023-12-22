@@ -1,28 +1,24 @@
-# Project
+# The Microsoft Learn Student Ambassadors Program Community Engagement Playbook 
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+> This playbook aims to empower leaders to inspire tertiary students to explore their curiosity in building technical and leadership skills through the Microsoft Learn Student Ambassador program, while fostering a vibrant and inclusive community.
+>
+These resources will help you amplify key messages in: 
 
-As the maintainer of this project, please make a few updates:
+- How to join the Microsoft Learn Student Ambassadors program 
+- The benefits of the program 
+- Testimonials from Ambassadors  
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+You are welcome to download or share these resources to showcase the Ambassadors program across your social media channels, presentations, SharePoint, intranet, newsletters and emails.  
+ 
+## What is the Microsoft Learn Student Ambassadors Program?
 
-## Contributing
+The Microsoft Learn Student Ambassadors community brings together passionate students from around the world who are driven to shape the future through building AI-focused startups and solutions, honing their technical and leadership skills, and learning Microsoft technologies to make a positive impact on their communities.   
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+Whether you’re passionate about technology, AI, or entrepreneurship, our inclusive community will empower you to unlock your potential, build valuable connections, explore cutting-edge technology, and boost your personal growth through empowering leadership opportunities and online influence.   
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+ 
+Student Ambassadors organize events, connect with peers, and access cutting-edge Microsoft technologies, including Microsoft 365, Visual Studio Enterprise, and Azure credits, while serving as advocates for their communities. 
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
 ## Trademarks
 
