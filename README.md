@@ -20,10 +20,34 @@ Whether you’re passionate about technology, AI, or entrepreneurship, our inclu
 Student Ambassadors organize events, connect with peers, and access cutting-edge Microsoft technologies, including Microsoft 365, Visual Studio Enterprise, and Azure credits, while serving as advocates for their communities. 
 
 
-## Trademarks
+## 🧠 Request for resources or questions?  
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+If you have a special request for content or resources to be added in this playbook, please contact Elizabeth Pappalardo, Community Program Manager at epappalardo@microsoft.com.
+
+## 🧭 How to navigate this playbook
+TBC
+
+## 🎒 Presentation Decks 
+TBC
+
+## 📢 Social Media Assets 
+TBC
+
+## 📝 Blog 
+TBC
+
+## 🚀 One Pager
+TBC
+
+## 🏛️ How-to Videos
+TBC
+
+## 🌟 Testimonials 
+
+## 💡 Tips to deliver a presentation 
+TBC
+
+## 🔗 Helpful Links for Students
+TBC
+
+
