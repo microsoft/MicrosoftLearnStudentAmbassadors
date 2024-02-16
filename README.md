@@ -47,9 +47,9 @@ This one pager PDF is the perfect attachment for any email correspondence or pos
 Download here. Student Ambassador One Pager.pdf (last updated January 2024)
 
 ## 💡 Tips to deliver a presentation 
-A Lunch and Learn style or an After Hours session works well with students. The content can combine a Microsoft Learn Student Ambassador program information session with a technical talk to showcase the learning possibilities and students can unlock their potential with the Microsoft Learn Student Ambassador program.   
+A Lunch and Learn style or an After Hours session works well with students. The content can combine a Microsoft Learn Student Ambassador program information session with a technical talk to showcase the learning possibilities and how students can unlock their potential with the program.   
 
-If you do not want to host your own event, you may want to leverage an existing community event or lecture to provide a quick overview on the program for attendees and follow up with a call to action.  
+If you do not want to host your own event, you may want to consider talking at an existing community event, user group session, bootcamp or university lecture to provide a short overview on the program for attendees and follow up with a call to action.  
 
 **1. Host a talk**
 
