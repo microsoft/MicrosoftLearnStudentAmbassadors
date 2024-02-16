@@ -70,10 +70,10 @@ Every student community will be different in how they engage with you. The first
 - Check out [Find a Student Ambassador](https://mvp.microsoft.com/en-US/search?target=profile&program=MLSA) to see if a student in your local area can co-host or speak with you. You can ask them about their experiences being part of the community and how the program has helped unlock their potential and open opportunities to grow their career.
 - Consider combining a Microsoft Learn Student Ambassador information session with a technical talk to provide added value for students and inspire them for what they can continue to learn about. If you need a technical speaker, go to [Find an MVP](https://mvp.microsoft.com/en-US/search?target=Profile&program=MVP) and reach out using their social media profiles, or contact your local Microsoft Community Manager.  
  
-**3.Use supporting materials**
+**3. Use supporting materials**
  
 - Use the walking deck to empower students to unlock their potential by joining the Microsoft Learn Student Ambassador program.
-- Why not include a technical talk in your presentation. Check out the [technical lessons at here](https://github.com/microsoft/cloud-advocate-workshops). 
+- Why not include a technical talk in your presentation? Check out the [technical lessons at here](https://github.com/microsoft/cloud-advocate-workshops) or [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/).
  
 
 **4. Follow up post-talk**
