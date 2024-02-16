@@ -45,6 +45,8 @@ Here are suggested social media text for you to copy and paste for personalizati
 
 Register today for the Microsoft Learn Student Ambassador Program! Join our global community of students who are passionate about building AI-driven solutions with Microsoft technology. Accelerate innovation and grow the skills you need to have greater impact in the projects and communities that matter to you. Get started now at https://mvp.microsoft.com/apply #MSFTStudentAmbassadors
 
+![Image of group of students](https://mvp.microsoft.com/Assets/Photos/StudentHome.webp)
+
 ## 🚀 One Pager
 This one pager PDF is the perfect attachment for any email correspondence or poster for your community notice board.  
 
