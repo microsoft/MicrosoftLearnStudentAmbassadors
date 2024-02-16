@@ -18,12 +18,6 @@ They connect with other tech enthusiasts, AI innovators, and aspiring entreprene
 
 [Get started now](https://mvp.microsoft.com/apply)
 
-
-## 🧠 Request for resources or questions?  
-
-If you have a special request for content or resources to be added in this playbook, please contact Elizabeth Pappalardo, Community Program Manager at epappalardo@microsoft.com.
-
-
 ## 🎒 Presentation Decks 
 If you are speaking to a group of students, please utilize the student ready deck below to help you deliver the best presentation to your audience.  
 
@@ -81,7 +75,7 @@ Every student community will be different in how they engage with you. The first
 
 - Share the [Microsoft Learn Student Ambassador](https://mvp.microsoft.com/en-US/studentambassadors) website with participants post-talk to remind them on how to join the community by clicking "Get Started".  
 
-- Create a social media post with a call to action to inspire students to unlock their potential and join the Microsoft Learn Student Ambassador community at https://mvp.microsoft.com/en-US/studentambassadors and tag #MSFTStudentAmbassadors. Copy the suggested text from the Social Media Assets section above.
+- Create a social media post with a call to action to inspire students to unlock their potential and join the Microsoft Learn Student Ambassador community at https://mvp.microsoft.com/en-US/studentambassadors and tag #MSFTStudentAmbassadors. Copy the suggested text from the [Social Media Assets section](https://github.com/microsoft/MicrosoftLearnStudentAmbassadors?tab=readme-ov-file#-social-media-assets).
 
 ## 🔗 Helpful Links for Students
 - [Microsoft Learn Student Ambassador Website](https://mvp.microsoft.com/en-US/studentambassadors)
@@ -95,4 +89,6 @@ Every student community will be different in how they engage with you. The first
 - [X (Twitter)](https://twitter.com/MSFTImagine)
 - [Facebook](https://www.facebook.com/MSFTImagine)
 
+## 🧠 Request for resources or questions?  
 
+If you have a special request for content or resources to be added in this playbook, please contact Elizabeth Pappalardo, Community Program Manager at epappalardo@microsoft.com.
