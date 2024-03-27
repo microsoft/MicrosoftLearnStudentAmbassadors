@@ -1,4 +1,4 @@
-# The Microsoft Learn Student Ambassadors Program Community Engagement Playbook 
+# The Microsoft Learn Student Ambassador Program - Community Engagement Playbook 
 
 > This playbook aims to empower leaders to inspire tertiary students to explore their curiosity in building technical and leadership skills through the Microsoft Learn Student Ambassador program, while fostering a vibrant and inclusive community.
 >
@@ -6,7 +6,6 @@ Join our global community of students who are passionate about building AI-drive
 
 - How to join the Microsoft Learn Student Ambassadors program 
 - The benefits of the program 
-- Testimonials from Ambassadors  
 
 You are welcome to download or share these resources to showcase the Ambassadors program across your social media channels, presentations, SharePoint, intranet, newsletters and emails.  
  
@@ -35,9 +34,13 @@ Follow, tag, like and share content on the Microsoft Learn Student Ambassador so
 - [Facebook](https://www.facebook.com/MSFTImagine)
 - [Instagram](https://www.instagram.com/microsoftimaginecup/)
 
-Here are suggested social media text for you to copy and paste for personalization:
+Here is suggested social media text for you to copy and paste for personalization:
 
 Register today for the Microsoft Learn Student Ambassador Program! Join our global community of students who are passionate about building AI-driven solutions with Microsoft technology. Accelerate innovation and grow the skills you need to have greater impact in the projects and communities that matter to you. Get started now at https://mvp.microsoft.com/apply #MSFTStudentAmbassadors
+
+[Download story image](https://github.com/microsoft/MicrosoftLearnStudentAmbassadors/blob/9e4e0f3c94de8130ba970d3f8b412ace3d9af7f7/MSLearn_SA_IGStory_Dark-lines_Ext.png)
+
+[Download group image](https://mvp.microsoft.com/Assets/Photos/StudentHome.webp)
 
 ![Image of group of students](https://mvp.microsoft.com/Assets/Photos/StudentHome.webp)
 
@@ -66,7 +69,7 @@ Every student community will be different in how they engage with you. The first
  
 **3. Use supporting materials**
  
-- Use the walking deck to empower students to unlock their potential by joining the Microsoft Learn Student Ambassador program.
+- Use the walking deck to empower students to unlock their potential by joining the Microsoft Learn Student Ambassador program. [Student Ambassador - Student Ready Deck.pptx](https://github.com/microsoft/MicrosoftLearnStudentAmbassadors/blob/d908b41f5f788abd1abdf2ff70800982cf4d13bf/Student%20Ambassador%20-%20Student%20Ready%20Deck.pptx) (last updated January 2024) 
 - Why not include a technical talk in your presentation? Check out the [technical lessons at here](https://github.com/microsoft/cloud-advocate-workshops) or [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/).
  
 
