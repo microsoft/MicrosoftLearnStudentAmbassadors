@@ -23,9 +23,9 @@ If you are speaking to a group of students, please utilize the student ready dec
 
 We have also provided tips on how to deliver a presentation below in this playbook.  
 
-- Walking deck: this walking deck provides an overview of the program, benefit of the community and how to become a Microsoft Learn Student Ambassador. Student Ambassador - Student Ready Deck.pptx (last updated January 2024) 
+- Walking deck: this walking deck provides an overview of the program, benefit of the community and how to become a Microsoft Learn Student Ambassador. [Student Ambassador - Student Ready Deck.pptx](https://github.com/microsoft/MicrosoftLearnStudentAmbassadors/blob/d908b41f5f788abd1abdf2ff70800982cf4d13bf/Student%20Ambassador%20-%20Student%20Ready%20Deck.pptx) (last updated January 2024) 
 
-- One pager: utilize the one pager if you want to deliver a short presentation about the Microsoft Learn Student Ambassadors program. Student Ambassador One Pager.pdf (last updated January 2024) 
+- One pager: utilize the one pager if you want to deliver a short presentation about the Microsoft Learn Student Ambassadors program. [Student Ambassador One Pager.pdf](https://github.com/microsoft/MicrosoftLearnStudentAmbassadors/blob/7f390acf286385824c97b8e6016a0daed9f736c9/Student%20Ambassador%20One%20Pager.pdf) (last updated January 2024) 
 
 ## 📢 Social Media Assets 
 Follow, tag, like and share content on the Microsoft Learn Student Ambassador social pages:
@@ -44,7 +44,7 @@ Register today for the Microsoft Learn Student Ambassador Program! Join our glob
 ## 🚀 One Pager
 This one pager PDF is the perfect attachment for any email correspondence or poster for your community notice board.  
 
-Download here. Student Ambassador One Pager.pdf (last updated January 2024)
+[Download here.](https://github.com/microsoft/MicrosoftLearnStudentAmbassadors/blob/7f390acf286385824c97b8e6016a0daed9f736c9/Student%20Ambassador%20One%20Pager.pdf) (last updated January 2024)
 
 ## 💡 Tips to deliver a presentation 
 A Lunch and Learn style or an After Hours session works well with students. The content can combine a Microsoft Learn Student Ambassador program information session with a technical talk to showcase the learning possibilities and how students can unlock their potential with the program.   
